@@ -1,2 +1,2 @@
 # python-flask-docker
-Basic skeleton dockerized flack app
+Basic skeleton dockerized flask app
